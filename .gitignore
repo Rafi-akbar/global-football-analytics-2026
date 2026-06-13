@@ -1,0 +1,5 @@
+__pycache__/
+.streamlit/
+mysql_data/
+*.pyc
+.env
